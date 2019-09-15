@@ -1,19 +1,18 @@
 # CLIMATE CHANGE AI HACKATHON
 
-Swift, Accurate, Low Latency Mobile-Based Plant Disease Detector which not only identifies the present disease but also gives early detection with correction methods
+Swift, Accurate, Low Latency Mobile-Based Plant Disease Detector which not only identifies the present disease but also might give early detection with correction methods
 
 <img src = "https://raw.githubusercontent.com/akshayrana30/plant-disease-detection/master/pics/banner.png"/>
 
-In support of Plant Village Project, we aim to help smallholder farmers grow more food by getting rid of their diseases by identifying them on time and getting valuable solutions for it.
-
-We have an image classifier to predict plant diseases captured from a mobile camera. The models runs in the mobile itself and it does not need internet for this. 
-
-Datasets for the challenge.
+Datasets for the challenge
 * Train: https://drive.google.com/open?id=1Z-zMWsxSU8jRHp3h6YWCpQZAG79SD6kd
 * Test: https://drive.google.com/open?id=10idTg94ohFjhgEH5jdDBtpoCMhX4ShE9 
 
+External Links
+* Dev Post: https://devpost.com/software/plant-disease-detection-d9q5np
+* Presentation: https://docs.google.com/presentation/d/1ZHtsKjaItOi7OcEZGwdLc8en2duRIlY00j0ke_8tO6o/edit?usp=sharing 
 
-Files.
+Files
 * prediction.json - This is our prediction for the test set given in the challenge above.
 * Plant_Disease_Detection - Image Classification.ipynb - Notebook for training and testing the models.
 * PlantSaverApp/outputs/apk/debug/app-debug.apk - APK you can directly install and get started.
