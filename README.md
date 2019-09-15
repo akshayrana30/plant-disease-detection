@@ -1,6 +1,6 @@
 # CLIMATE CHANGE AI HACKATHON
 
-Swift, Accurate, Low Latency Mobile-Based Plant Disease Detector which not only identifies the present disease but also might give early detection with correction methods
+Swift, Accurate, Low Latency Mobile-Based Plant Disease Detector which not only identifies the present disease but also gives early detection with correction methods
 
 <img src = "https://raw.githubusercontent.com/akshayrana30/plant-disease-detection/master/pics/banner.png"/>
 
