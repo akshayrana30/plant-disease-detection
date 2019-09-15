@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:dist="http://schemas.android.com/apk/distribution"
+        package="ccaihackathon.com.plantsaver">
+
+    <dist:module dist:instant="true" />
+
+    <application
+            android:allowBackup="true"
+            android:label="@string/app_name"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+        <activity
+                android:name="ccaihackathon.com.plantsaver.DetailsActivity"
+                android:label="@string/title_activity_details"
+                android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name="ccaihackathon.com.plantsaver.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
