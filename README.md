@@ -27,14 +27,14 @@ Files.
   <img src = "https://raw.githubusercontent.com/akshayrana30/plant-disease-detection/master/pics/screen2.jpg" width="300"/>
 </p>
 
-## Getting Started
-
-
-
 
 ## Future Tasks
+* Real Time Detection using drones on the green fields
+* Integrating climate data for crop yield prediction and recommendations.
+* Chatbot for personalised help.
+* Ordering fertilizer from ecommerce site.
+* Setting reminder for pesticides/watering etc
+* Advising on best practices.
 
-*
-*
 
 
