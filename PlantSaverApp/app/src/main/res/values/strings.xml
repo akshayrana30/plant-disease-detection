@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CCAI Hackathon PlantSaver</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="title_activity_details">Details</string>
+</resources>
