@@ -1,6 +1,6 @@
 # CLIMATE CHANGE AI HACKATHON
 
-<img src = "https://raw.githubusercontent.com/akshayrana30/plant-disease-detection/master/pics/banner.PNG"/>
+<img src = "https://raw.githubusercontent.com/akshayrana30/plant-disease-detection/master/pics/banner.png"/>
 
 Intro
 
