@@ -4,7 +4,7 @@ Swift, Accurate, Low Latency Mobile-Based Plant Disease Detector which not only 
 
 <img src = "https://raw.githubusercontent.com/akshayrana30/plant-disease-detection/master/pics/banner.png"/>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/RjsLm5PCdVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/RjsLm5PCdVQ
 
 Datasets for the challenge
 * Train: https://drive.google.com/open?id=1Z-zMWsxSU8jRHp3h6YWCpQZAG79SD6kd
